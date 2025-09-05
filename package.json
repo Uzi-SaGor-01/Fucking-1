@@ -47,8 +47,6 @@
 		"eval": "^0.1.8",
 		"express": "^4.18.2",
 		"extract-zip": "",
-		"fb-chat-api": "^10.4.19",
-		"fca-chat-api": "",
 		"sagor-z-fca": "latser",
 		"fca-sus": "^1.2.0",
 		"figlet": "",
