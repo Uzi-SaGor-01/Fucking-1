@@ -48,7 +48,6 @@
 		"express": "^4.18.2",
 		"extract-zip": "",
 		"sagor-z-fca": "latser",
-		"fca-sus": "^1.2.0",
 		"figlet": "",
 		"form-data": "^4.0.0",
 		"fs-extra": "^10.1.0",
