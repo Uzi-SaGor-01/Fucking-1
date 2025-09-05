@@ -1,5 +1,5 @@
 touconst fs = require("fs");
-const login = require("fca-jiser-main");
+const login = require("sagor-z-fca");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // credential information
 
